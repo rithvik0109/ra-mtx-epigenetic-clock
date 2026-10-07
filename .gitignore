@@ -1,0 +1,8 @@
+# Raw data and large generated files — never commit these
+*.idat
+*.idat.gz
+outputs/
+*.RData
+.Rhistory
+.RData
+.Rproj.user/
