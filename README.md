@@ -58,4 +58,4 @@ The script prints this split explicitly at the end of its run, and deliberately 
 
 ## Contact
 
-Questions about the script or methodology: Rithvik, [your email] — Master's student, Bioinformatics and Data Science.
+Questions about the script or methodology: Rithvik, rithvik5d@gmail.com — Master's student, Bioinformatics and Data Science.
